@@ -35,4 +35,6 @@
 
 .controlColumn {
   width: 50%;
+  display: inline-block;
+  white-space: nowrap;
 }
